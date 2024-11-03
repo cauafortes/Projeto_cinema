@@ -1,0 +1,52 @@
+:root{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+*{
+  margin: 0px;
+}
+.hoje{
+  color: darkgreen;
+}
+.amanha{
+  color: darkblue;
+}
+
+a{
+  text-decoration: none;
+}
+
+h2 a {
+  color: royalblue;
+}
+
+p{
+  font-size:  20px;
+}
+
+h1{
+  text-align: center;
+  padding: 20px;
+  background-color: #d8d8d8;
+  color: white;
+}
+
+ul{
+  padding-top: 20px;
+}
+
+
+
+button{
+   margin: 20px;
+   background-color: rgba(145, 145, 145, 0.555);
+   font-size: 20px;
+}
+
+button:hover{
+  background-color: rgba(97, 97, 97, 0.555);
+}
+
+button a {
+  color: white;
+}
